@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:00D4AA&text=Nithin%20Reddy&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20AI%2FML&descAlignY=60&descSize=20" alt="Nithin Reddy — Software Developer · Cybersecurity · AI/ML" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:00D4AA&text=Nithin%20Reddy&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20AI%2FML&descAlignY=60&descSize=20&animation=fadeIn" alt="Nithin Reddy — Software Developer · Cybersecurity · AI/ML" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="620" alt="Animated developer workspace"/>
 
 <a href="https://github.com/Nithinreddy3093">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Building+secure%2C+intelligent%2C+practical+software;Published+researcher+%E2%80%94+Android+malware+detection+(IEEE+Xplore);Exploring+RAG+security+and+prompt-injection+defense;B.Tech+CSE+(Cybersecurity)+%7C+SRMIST+%7C+CGPA+8.5" alt="Typing intro"/>
