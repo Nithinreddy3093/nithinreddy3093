@@ -168,7 +168,7 @@ An applied ML project that detects road hazards from visual data.
 
 <img src="https://streak-stats.demolab.com?user=Nithinreddy3093&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithinreddy3093&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/00D4AA/Nithinreddy3093" alt="Contribution chart" width="85%"/>
 
 </div>
 
