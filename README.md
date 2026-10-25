@@ -1,34 +1,148 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="600"/>
+ <div align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="Animated developer workspace" />
+
+  # NITHIN REDDY
+
+  ### Software Developer · Cybersecurity · AI/ML
+
+  *Building secure, intelligent, and practical software solutions.*
+
+  <p>
+    <a href="https://github.com/Nithinreddy3093"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/nithin-marthala-82a981284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://nithinreddy3093.github.io/cinematic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:marthalanithinreddy3093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Nithinreddy3093&style=flat-square&color=00D4AA&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
-# nithinreddy3093
-
-# 💫 About Me:
-🔭 I’m currently working on web development projects and risk assessment initiatives.<br><br>👯 I’m looking to collaborate on innovative web designs and cybersecurity projects.<br><br>🤝 I’m looking for help with enhancing the responsiveness of web designs and creating efficient DSA solutions.<br><br>🌱 I’m currently learning DSA and improving my web development skills.<br><br>💬 Ask me about Python, Machine Learning, or Cybersecurity strategies.<br><br>📫 How to reach me: marthalanithinreddy3093@gmail.com<br><br>📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1S84Gofl7DrrfSb2DHGzjTVF85vhGo3B7/view?usp=sharing)<br><br>⚡ Fun fact: I can talk endlessly about tech, but I need coffee to fuel my coding marathons!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nithinreddy3093?igsh=MWIwZnd3cWx5eHZkdg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-marthala/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@entidhiofficial) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nithinreddy3093&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nithinreddy3093&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinreddy3093&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nithinreddy3093&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nithinreddy3093&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Nithinreddy3093&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Marthalanithinreddy) 
+## `01` — About Me
+
+I'm a Computer Science and Engineering graduate specializing in **Cybersecurity**, interested in building software that combines engineering, automation, and security.
+
+My work spans full-stack development, applied AI/ML, security-focused research, and developer tools. I enjoy turning technical ideas into practical projects, exploring how systems fail, and designing solutions that are reliable, explainable, and useful.
+
+- **Education:** B.Tech in Computer Science & Engineering — Cybersecurity
+- **Focus areas:** Software Engineering, Cybersecurity, AI/ML, Automation
+- **Currently exploring:** RAG security, prompt injection defense, and secure AI applications
+- **Core interests:** Backend systems, web applications, security testing, and intelligent automation
+- **Open to:** Software development, cybersecurity, QA automation, and AI-focused opportunities
+
+> My philosophy: build with curiosity, test with discipline, and design with security in mind.
+
+## `02` — Featured Projects
+
+### 🛡️ TrustRAG-Guard
+**Explainable security for retrieval-augmented generation systems**
+
+A research-oriented prototype exploring knowledge-base poisoning and prompt-injection detection in RAG pipelines, with document provenance, guard mechanisms, and explainability.
+
+`Python` `FastAPI` `Machine Learning` `RAG Security`
+
+### 🤖 ContextAI
+**AI-powered browser assistance**
+
+An exploration of AI-assisted browsing and developer productivity, combining a browser extension with a backend service.
+
+`React` `TypeScript` `Vite` `FastAPI`
+
+### 🔐 AI Password Strength Analyzer
+**Security-focused password assessment**
+
+A project exploring password-strength evaluation and security awareness through an interactive application.
+
+`Python` `Cybersecurity` `Machine Learning`
+
+### 🌐 Speed Breaker & Pothole Detection
+**Computer vision for road safety**
+
+An applied machine-learning project focused on detecting road hazards from visual data.
+
+`Python` `Computer Vision` `AI/ML`
+
+<p align="center">
+  <a href="https://github.com/Nithinreddy3093?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D4AA?style=for-the-badge&logo=github&logoColor=black" alt="Explore all projects"/>
+  </a>
+</p>
+
+## `03` — Technical Arsenal
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Programming languages"/>
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,spring,fastapi&theme=dark" alt="Web technologies"/>
+
+### Databases, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,jenkins,linux,vscode&theme=dark" alt="Development tools"/>
+
+</div>
+
+**Areas of practice**
+
+- **Software engineering:** OOP, data structures, algorithms, REST APIs
+- **Cybersecurity:** Security testing, threat analysis, secure application design
+- **AI/ML:** Model experimentation, NLP fundamentals, applied machine learning
+- **Quality engineering:** SDLC, STLC, manual testing, API testing with Postman
+- **Development workflow:** Git, version control, Docker, CI/CD fundamentals
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithinreddy3093&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinreddy3093&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Nithinreddy3093&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+<details>
+  <summary><b>More GitHub insights</b></summary>
+
+  <div align="center">
+
+    <img src="https://github-profile-trophy.vercel.app/?username=Nithinreddy3093&theme=tokyonight&no-frame=true&column=4" alt="GitHub trophies"/>
+
+  </div>
+</details>
+
+## `05` — Beyond the Code
+
+I also enjoy creative problem-solving, developer content, and exploring ways to explain complex technical concepts in a simple, practical way.
+
+Whether it's experimenting with a new framework, investigating a security weakness in a controlled lab, or building a tool from scratch, I'm always looking for the next opportunity to learn by building.
+
+## `06` — Let's Connect
+
+Interested in collaborating on a project, discussing application security, or exchanging ideas about AI and software engineering?
+
+<div align="center">
+
+  <a href="mailto:marthalanithinreddy3093@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-00D4AA?style=for-the-badge&logo=rocket&logoColor=black" alt="Let's connect"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Nithinreddy3093">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/nithin-marthala-82a981284">LinkedIn</a> ·
+  <a href="https://nithinreddy3093.github.io/cinematic-portfolio/">Portfolio</a>
+
+  <br/><br/>
+
+  <sub>Designed with curiosity. Built with code. Secured by design.</sub>
+
+</div>
